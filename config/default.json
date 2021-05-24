@@ -1,0 +1,9 @@
+{
+
+     "mongoURI" : "mongodb+srv://ccfchan:0gkkvm123@cluster0.irxvt.mongodb.net/FindMyPet?retryWrites=true&w=majority",
+     "SecretKey": "SecretKey"
+   
+
+
+
+}
